@@ -1,0 +1,13 @@
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.exe
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.deps.json
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.json
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.dev.json
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.dll
+E:\MONDINI 4F\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.pdb
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.AssemblyReference.cache
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfoInputs.cache
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfo.cs
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.CoreCompileInputs.cache
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.dll
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.pdb
+E:\MONDINI 4F\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.genruntimeconfig.cache
